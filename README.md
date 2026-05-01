@@ -30,6 +30,7 @@ No drivers. No software. No hassle.
 ## 📸 Preview
 
 > A clean, dark-themed flasher UI with animated background, device info panel, serial console, and one-click flashing.
+<img width="1280" height="400" alt="flashforge-banner" src="https://github.com/user-attachments/assets/f7ed4156-d1fc-4e6a-bc93-9ea5d1905382" />
 
 ---
 
