@@ -2,7 +2,7 @@
 
 <br/>
 
-```
+```ruby
 ███████╗██╗      █████╗ ███████╗██╗  ██╗███████╗ ██████╗ ██████╗  ██████╗ ███████╗
 ██╔════╝██║     ██╔══██╗██╔════╝██║  ██║██╔════╝██╔═══██╗██╔══██╗██╔════╝ ██╔════╝
 █████╗  ██║     ███████║███████╗███████║█████╗  ██║   ██║██████╔╝██║  ███╗█████╗  
@@ -27,7 +27,7 @@ No drivers. No software. No hassle.
 
 <br/>
 
-[🚀 **Launch App**](https://rsnithesh.github.io/FlashForge) · [🐛 Report Bug](https://github.com/rsnithesh/FlashForge/issues) · [💡 Request Feature](https://github.com/rsnithesh/FlashForge/issues)
+[🚀 **Launch App**](https://R-S-Nithesh.github.io/FlashForge) · [🐛 Report Bug](https://github.com/R-S-Nithesh/FlashForge/issues) · [💡 Request Feature](https://github.com/R-S-Nithesh/FlashForge/issues)
 
 <br/>
 
