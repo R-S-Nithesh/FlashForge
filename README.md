@@ -100,8 +100,6 @@ That's it. No terminal, no Python, no esptool installation.
                     └────────────────┘
 ```
 
-FlashForge uses the **[WebSerial API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API)** to open a raw serial connection from the browser, and [esptool-js] (the official Espressif WASM port) to handle the ROM bootloader protocol, erasing, and writing flash sectors.
-
 ---
 
 ## 📁 Project Structure
