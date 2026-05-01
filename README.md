@@ -13,14 +13,6 @@
 
 ### ⚡ Browser-based ESP32 / ESP8266 Firmware Flasher
 
-<br/>
-
-![GitHub stars](https://img.shields.io/github/stars/rsnithesh/FlashForge?style=for-the-badge&color=a855f7&labelColor=0f0a1e)
-![GitHub forks](https://img.shields.io/github/forks/rsnithesh/FlashForge?style=for-the-badge&color=c084fc&labelColor=0f0a1e)
-![GitHub issues](https://img.shields.io/github/issues/rsnithesh/FlashForge?style=for-the-badge&color=9333ea&labelColor=0f0a1e)
-![License](https://img.shields.io/github/license/rsnithesh/FlashForge?style=for-the-badge&color=7c3aed&labelColor=0f0a1e)
-
-<br/>
 
 **Flash firmware to any ESP32 or ESP8266 board — directly from your browser.**  
 No drivers. No software. No hassle.
@@ -174,32 +166,22 @@ git push origin feature/amazing-feature
 ```
 
 **Ways to contribute:**
-- 🐛 Report bugs via [Issues](https://github.com/rsnithesh/FlashForge/issues)
+- 🐛 Report bugs via [Issues](https://github.com/R-S-Nithesh/FlashForge/issues)
 - 💡 Suggest features or UI improvements
 - 🌍 Help test on different boards and browsers
 - ⭐ Star the repo if it helped you
 
----
-
-## 📜 License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
-
----
 
 ## 🙏 Acknowledgements
 
 - [Espressif](https://github.com/espressif/esptool-js) — for esptool-js
 - [WebSerial API](https://wicg.github.io/serial/) — W3C / WICG spec
-- Original concept inspired by [FirmwareHub](https://github.com/cifertech/FirmwareHub) by CiferTech
 
 ---
 
 <div align="center">
 
 <br/>
-
-Built with 💜 by **R.S.Nithesh** · Powered by WebSerial + esptool-js
 
 <br/>
 
