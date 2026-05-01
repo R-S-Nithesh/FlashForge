@@ -170,7 +170,6 @@ git push origin feature/amazing-feature
 - 🌍 Help test on different boards and browsers
 - ⭐ Star the repo if it helped you
 
-
 <br/>
 
 </div>
