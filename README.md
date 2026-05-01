@@ -174,6 +174,4 @@ git push origin feature/amazing-feature
 
 <br/>
 
-![Made with love](https://img.shields.io/badge/made%20with-💜-a855f7?style=for-the-badge&labelColor=0f0a1e)
-
 </div>
