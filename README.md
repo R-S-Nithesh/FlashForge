@@ -52,7 +52,6 @@ No drivers. No software. No hassle.
 | 📁 **Drag & Drop** | Drop zone UI with progress bar for visual feedback |
 | 🕒 **Flash History** | Recent flash records stored in your browser |
 | 🌙 **Dark / Light** | Full theme toggle with smooth transitions |
-| 💜 **Purple UI** | Animated particle background, glowing panels |
 
 ---
 
@@ -100,7 +99,7 @@ That's it. No terminal, no Python, no esptool installation.
  │                                                  │
  │   FlashForge UI  →  WebSerial API                │
  │                          │                       │
- │                    esptool-js (WASM)              │
+ │                    esptool-js (WASM)             │
  │                          │                       │
  └──────────────────────────┼───────────────────────┘
                             │  USB / Serial
